@@ -1,0 +1,108 @@
+{
+  "categories": [
+    {
+      "name": "Programming Languages",
+      "skills": ["Python", "Java", "C++", "C#", "JavaScript", "TypeScript", "Go", "Rust", "SQL", "R", "Bash/Shell"]
+    },
+    {
+      "name": "Web & Mobile Development",
+      "skills": ["HTML5", "CSS3", "Tailwind CSS", "React", "Next.js", "Node.js", "Express", "FastAPI", "REST APIs", "GraphQL", "Redux"]
+    },
+    {
+      "name": "Data Analysis & Science",
+      "skills": ["Pandas", "NumPy", "Power BI", "Tableau", "Excel", "Data Visualization", "Statistics", "Machine Learning", "Scikit-Learn", "Deep Learning", "PyTorch", "EDA"]
+    },
+    {
+      "name": "Cloud & Infrastructure",
+      "skills": ["AWS", "Google Cloud (GCP)", "Microsoft Azure", "Docker", "Kubernetes", "Linux", "Terraform", "CI/CD", "Git", "GitHub Actions"]
+    },
+    {
+      "name": "Cybersecurity & Networks",
+      "skills": ["Network Security", "Wireshark", "Nmap", "SIEM (Splunk)", "Vulnerability Assessment", "OWASP Top 10", "Cryptography", "Identity & Access Management (IAM)"]
+    },
+    {
+      "name": "Databases & Storage",
+      "skills": ["PostgreSQL", "MySQL", "MongoDB", "Redis", "SQLite", "Database Indexing", "Query Optimization"]
+    },
+    {
+      "name": "Design & UI/UX",
+      "skills": ["Figma", "Wireframing", "User Research", "Prototyping", "Design Systems", "Usability Testing"]
+    },
+    {
+      "name": "Soft Skills",
+      "skills": ["Problem Solving", "Communication", "Team Collaboration", "Critical Thinking", "Time Management", "Adaptability", "Presentation Skills"]
+    }
+  ],
+  "role_skill_matrix": {
+    "software_developer": {
+      "title": "Software Developer",
+      "mandatory_skills": ["Data Structures & Algorithms", "Git", "Object-Oriented Design (OOP)", "Unit Testing"],
+      "primary_languages": ["Java", "Python", "C++", "C#"],
+      "database_skills": ["SQL", "PostgreSQL", "MySQL"],
+      "tools": ["Docker", "Linux", "CI/CD"]
+    },
+    "data_analyst": {
+      "title": "Data Analyst",
+      "mandatory_skills": ["SQL", "Excel", "Data Visualization", "Statistics"],
+      "primary_languages": ["Python", "SQL", "R"],
+      "database_skills": ["SQL", "PostgreSQL"],
+      "tools": ["Power BI", "Tableau", "Pandas"]
+    },
+    "web_developer": {
+      "title": "Web Developer (Full-Stack)",
+      "mandatory_skills": ["HTML5", "CSS3", "JavaScript", "React", "REST APIs", "Git"],
+      "primary_languages": ["JavaScript", "TypeScript", "Python"],
+      "database_skills": ["PostgreSQL", "MongoDB"],
+      "tools": ["Tailwind CSS", "Node.js", "Express", "Vite"]
+    },
+    "data_scientist": {
+      "title": "Data Scientist",
+      "mandatory_skills": ["Machine Learning", "Statistics", "Data Cleaning", "Scikit-Learn", "EDA"],
+      "primary_languages": ["Python", "SQL"],
+      "database_skills": ["SQL"],
+      "tools": ["Pandas", "NumPy", "PyTorch", "Jupyter Notebook"]
+    },
+    "cloud_engineer": {
+      "title": "Cloud Engineer",
+      "mandatory_skills": ["Cloud Architecture", "Linux", "Networking", "IAM", "Infrastructure as Code"],
+      "primary_languages": ["Bash/Shell", "Python"],
+      "database_skills": ["SQL"],
+      "tools": ["AWS", "Docker", "Terraform"]
+    },
+    "cybersecurity_analyst": {
+      "title": "Cybersecurity Analyst",
+      "mandatory_skills": ["Network Security", "Vulnerability Assessment", "SIEM (Splunk)", "OWASP Top 10", "Incident Response"],
+      "primary_languages": ["Python", "Bash/Shell"],
+      "database_skills": ["SQL"],
+      "tools": ["Wireshark", "Nmap", "Linux"]
+    },
+    "devops_engineer": {
+      "title": "DevOps Engineer",
+      "mandatory_skills": ["CI/CD", "Docker", "Kubernetes", "Linux", "Terraform", "Monitoring (Prometheus/Grafana)"],
+      "primary_languages": ["Bash/Shell", "Python", "Go"],
+      "database_skills": ["PostgreSQL"],
+      "tools": ["GitHub Actions", "Docker", "Kubernetes", "Terraform"]
+    },
+    "database_administrator": {
+      "title": "Database Administrator (DBA)",
+      "mandatory_skills": ["Database Indexing", "Query Optimization", "Backup & Recovery", "High Availability", "Schema Design"],
+      "primary_languages": ["SQL", "Bash/Shell", "Python"],
+      "database_skills": ["PostgreSQL", "MySQL", "Redis"],
+      "tools": ["Linux", "PgBouncer", "Docker"]
+    },
+    "ui_ux_designer": {
+      "title": "UI/UX Designer",
+      "mandatory_skills": ["Figma", "User Research", "Wireframing", "Prototyping", "Design Systems", "Usability Testing"],
+      "primary_languages": ["HTML5", "CSS3"],
+      "database_skills": [],
+      "tools": ["Figma", "Adobe XD", "Miro"]
+    },
+    "government_competitive_exams": {
+      "title": "Government & Technical Exam Roles (GATE / PSU / IT Officer)",
+      "mandatory_skills": ["Computer Science Fundamentals", "Operating Systems", "Computer Networks", "DBMS", "Quantitative Aptitude", "Logical Reasoning"],
+      "primary_languages": ["C", "C++"],
+      "database_skills": ["SQL"],
+      "tools": ["Standard Academic Textbooks", "Mock Test Series"]
+    }
+  }
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "c1",
+    "title": "CS50: Introduction to Computer Science",
+    "provider": "Harvard University (edX)",
+    "skills": ["C", "Python", "SQL", "Data Structures & Algorithms"],
+    "level": "Beginner",
+    "free": true,
+    "url": "https://cs50.harvard.edu/x",
+    "estimated_weeks": 10
+  },
+  {
+    "id": "c2",
+    "title": "Google Data Analytics Professional Certificate",
+    "provider": "Google (Coursera)",
+    "skills": ["SQL", "Excel", "Tableau", "Data Analysis", "R"],
+    "level": "Beginner to Intermediate",
+    "free": false,
+    "url": "https://www.coursera.org/professional-certificates/google-data-analytics",
+    "estimated_weeks": 12
+  },
+  {
+    "id": "c3",
+    "title": "Microsoft Power BI Data Analyst (PL-300) Prep",
+    "provider": "Microsoft Learn",
+    "skills": ["Power BI", "DAX", "Data Modeling", "Data Visualization"],
+    "level": "Intermediate",
+    "free": true,
+    "url": "https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst-associate",
+    "estimated_weeks": 6
+  },
+  {
+    "id": "c4",
+    "title": "Full Stack Open: Deep Dive Into Modern Web Development",
+    "provider": "University of Helsinki",
+    "skills": ["JavaScript", "TypeScript", "React", "Node.js", "Express", "REST APIs", "GraphQL"],
+    "level": "Intermediate",
+    "free": true,
+    "url": "https://fullstackopen.com/",
+    "estimated_weeks": 12
+  },
+  {
+    "id": "c5",
+    "title": "Machine Learning Specialization",
+    "provider": "DeepLearning.AI & Stanford (Andrew Ng)",
+    "skills": ["Python", "Machine Learning", "Scikit-Learn", "Statistics"],
+    "level": "Intermediate",
+    "free": false,
+    "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+    "estimated_weeks": 8
+  },
+  {
+    "id": "c6",
+    "title": "AWS Certified Solutions Architect Associate Training",
+    "provider": "Stephane Maarek (Udemy / AWS)",
+    "skills": ["AWS", "Cloud Architecture", "Networking", "IAM", "S3", "EC2"],
+    "level": "Intermediate",
+    "free": false,
+    "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate",
+    "estimated_weeks": 8
+  },
+  {
+    "id": "c7",
+    "title": "CompTIA Security+ (SY0-701) Prep Series",
+    "provider": "Professor Messer",
+    "skills": ["Network Security", "Cryptography", "Identity & Access Management (IAM)", "OWASP Top 10"],
+    "level": "Beginner to Intermediate",
+    "free": true,
+    "url": "https://www.professormesser.com/",
+    "estimated_weeks": 8
+  },
+  {
+    "id": "c8",
+    "title": "Docker & Kubernetes: The Complete Guide",
+    "provider": "Stephen Grider / KodeKloud",
+    "skills": ["Docker", "Kubernetes", "CI/CD", "Linux"],
+    "level": "Intermediate",
+    "free": false,
+    "url": "https://kodekloud.com/",
+    "estimated_weeks": 7
+  },
+  {
+    "id": "c9",
+    "title": "PostgreSQL High Performance Tuning & Indexing",
+    "provider": "Use The Index, Luke! / Postgres Documentation",
+    "skills": ["SQL", "Database Indexing", "Query Optimization", "PostgreSQL"],
+    "level": "Advanced",
+    "free": true,
+    "url": "https://use-the-index-luke.com/",
+    "estimated_weeks": 4
+  },
+  {
+    "id": "c10",
+    "title": "Google UX Design Professional Certificate",
+    "provider": "Google (Coursera)",
+    "skills": ["Figma", "User Research", "Wireframing", "Prototyping", "Design Systems"],
+    "level": "Beginner",
+    "free": false,
+    "url": "https://www.coursera.org/professional-certificates/google-ux-design",
+    "estimated_weeks": 10
+  }
+]

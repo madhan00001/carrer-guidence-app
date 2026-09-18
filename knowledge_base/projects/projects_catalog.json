@@ -1,0 +1,83 @@
+[
+  {
+    "id": "p1",
+    "title": "Full-Stack E-Commerce API with JWT & PostgreSQL",
+    "career_role": "software_developer",
+    "difficulty": "Intermediate",
+    "skills": ["Python", "FastAPI", "SQL", "PostgreSQL", "Docker", "Unit Testing"],
+    "description": "A production-grade backend service featuring token-based authentication, product catalogs, shopping cart sessions, stripe payment hooks, and complete Pytest suite with 85%+ code coverage.",
+    "deliverables": ["REST API routes", "Database migration scripts (Alembic)", "Docker Compose file", "Automated integration tests"]
+  },
+  {
+    "id": "p2",
+    "title": "Executive Sales & Churn Analytics Dashboard in Power BI",
+    "career_role": "data_analyst",
+    "difficulty": "Intermediate",
+    "skills": ["Power BI", "SQL", "Excel", "DAX", "Data Visualization"],
+    "description": "Analyze 250,000 retail customer transactions. Build custom DAX measures for Year-over-Year (YoY) revenue, Customer Lifetime Value (CLV), and interactive cohort retention matrices.",
+    "deliverables": ["Data cleaning SQL scripts", "Power BI (.pbix) dashboard", "Executive summary PDF presentation"]
+  },
+  {
+    "id": "p3",
+    "title": "Interactive Real-Time Kanban Board in React & Node",
+    "career_role": "web_developer",
+    "difficulty": "Intermediate",
+    "skills": ["JavaScript", "TypeScript", "React", "Tailwind CSS", "Node.js", "Express", "REST APIs"],
+    "description": "A modern Trello-like task board with drag-and-drop task columns, sub-tasks, local caching, responsive design, and role-based permissions.",
+    "deliverables": ["Component hierarchy in React", "Express backend API", "Responsive CSS styling"]
+  },
+  {
+    "id": "p4",
+    "title": "Customer Loan Default Prediction with Explainable AI",
+    "career_role": "data_scientist",
+    "difficulty": "Advanced",
+    "skills": ["Python", "Machine Learning", "Scikit-Learn", "Pandas", "EDA", "Statistics"],
+    "description": "Train supervised ML classifiers (Random Forest, XGBoost) on historical credit data. Apply SHAP and LIME algorithms to produce interpretable feature explanations for credit loan decisions.",
+    "deliverables": ["Jupyter notebook with complete EDA", "Model pipeline script", "Streamlit demo application"]
+  },
+  {
+    "id": "p5",
+    "title": "Terraform Multi-Tier Cloud Architecture on AWS",
+    "career_role": "cloud_engineer",
+    "difficulty": "Advanced",
+    "skills": ["AWS", "Cloud Architecture", "Terraform", "Linux", "Networking"],
+    "description": "Automated Infrastructure as Code (IaC) deployment of a VPC with public/private subnets, internet gateway, NAT gateway, Application Load Balancer, and auto-scaling EC2 cluster.",
+    "deliverables": ["Modular Terraform files", "Architecture diagram", "Cost estimation breakdown"]
+  },
+  {
+    "id": "p6",
+    "title": "Home Security Lab with Virtual SIEM & Threat Hunting",
+    "career_role": "cybersecurity_analyst",
+    "difficulty": "Intermediate",
+    "skills": ["Network Security", "Wireshark", "SIEM (Splunk)", "Linux", "OWASP Top 10"],
+    "description": "Set up a virtualized Linux/Windows network, forward syslogs into Splunk, simulate brute-force and port-scan attacks, and craft automated alert rules.",
+    "deliverables": ["Network topology setup guide", "Splunk alert queries (SPL)", "Incident response incident report"]
+  },
+  {
+    "id": "p7",
+    "title": "Zero-Downtime GitOps CI/CD Pipeline with Kubernetes",
+    "career_role": "devops_engineer",
+    "difficulty": "Advanced",
+    "skills": ["Docker", "Kubernetes", "CI/CD", "Linux", "GitHub Actions"],
+    "description": "Construct automated GitHub Actions workflows that build multi-stage Docker images, perform vulnerability scanning with Trivy, and trigger rolling deployment in a Kubernetes cluster.",
+    "deliverables": ["GitHub Actions YAML", "Kubernetes deployment & service manifests", "Helm chart"]
+  },
+  {
+    "id": "p8",
+    "title": "High-Availability PostgreSQL Replication with PgBouncer",
+    "career_role": "database_administrator",
+    "difficulty": "Advanced",
+    "skills": ["PostgreSQL", "Database Indexing", "Query Optimization", "Linux", "Docker"],
+    "description": "Configure physical streaming replication between primary and standby databases with PgBouncer connection pooling and automated health probe failover.",
+    "deliverables": ["Docker Compose cluster", "Configuration files (postgresql.conf, pgbouncer.ini)", "Query performance benchmark"]
+  },
+  {
+    "id": "p9",
+    "title": "Student Career Guidance Mobile & Web Design System in Figma",
+    "career_role": "ui_ux_designer",
+    "difficulty": "Beginner to Intermediate",
+    "skills": ["Figma", "Wireframing", "User Research", "Design Systems", "Prototyping"],
+    "description": "Create a design system including typography, color palette, atomic UI components, and interactive prototypes for a college career advising app.",
+    "deliverables": ["Figma component library", "User persona and user journey map", "Clickable prototype"]
+  }
+]

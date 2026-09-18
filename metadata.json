@@ -1,0 +1,6 @@
+{
+  "name": "Smart Career Guidance Assistant Using LLM, RAG and MCP",
+  "description": "An AI-powered career guidance platform for college students integrating Gemini LLM, LangChain RAG knowledge retrieval, Model Context Protocol (MCP) tools, and personalized roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
